@@ -1,0 +1,13 @@
+name: complex_enrichment
+title: complex_enrichment
+username:
+account: ydou
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1522070
+bundleId: 2617053
+url: https://ydou.shinyapps.io/complex_enrichment/
+when: 1574718105.19863
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: test.R
