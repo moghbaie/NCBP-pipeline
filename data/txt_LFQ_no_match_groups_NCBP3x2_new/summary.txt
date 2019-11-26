@@ -1,0 +1,264 @@
+Raw file	Experiment	Enzyme	Enzyme mode	Enzyme first search	Enzyme mode first search	Use enzyme first search	Variable modifications	Fixed modifications	Multi modifications	Variable modifications first search	Use variable modifications first search	Requantify	Multiplicity	Max. missed cleavages	Labels0	LC-MS run type	Time-dependent recalibration	MS	MS/MS	MS3	MS/MS Submitted	MS/MS Submitted (SIL)	MS/MS Submitted (ISO)	MS/MS Submitted (PEAK)	MS/MS Identified	MS/MS Identified (SIL)	MS/MS Identified (ISO)	MS/MS Identified (PEAK)	MS/MS Identified [%]	MS/MS Identified (SIL) [%]	MS/MS Identified (ISO) [%]	MS/MS Identified (PEAK) [%]	Peptide Sequences Identified	Peaks	Peaks Sequenced	Peaks Sequenced [%]	Peaks Repeatedly Sequenced	Peaks Repeatedly Sequenced [%]	Isotope Patterns	Isotope Patterns Sequenced	Isotope Patterns Sequenced (z>1)	Isotope Patterns Sequenced [%]	Isotope Patterns Sequenced (z>1) [%]	Isotope Patterns Repeatedly Sequenced	Isotope Patterns Repeatedly Sequenced [%]	Recalibrated	Av. Absolute Mass Deviation [ppm]	Mass Standard Deviation [ppm]	Av. Absolute Mass Deviation [mDa]	Mass Standard Deviation [mDa]	Label free norm param
+80_10a	NCBP1_10a	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		2041	10694	0	15805	5583	0	10222	1224	1204	0	20	7.74	21.57	NaN	0.2	916	297027	6939	2.34	712	10.26	25581	4490	3980	17.55	33.74	640	14.25	+	0.38371	0.5886	0.23073	0.36242	
+80_10b	NCBP1_10b	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		1967	10776	0	16040	5510	0	10530	944	926	0	18	5.89	16.81	NaN	0.17	718	285864	6877	2.41	768	11.17	24700	4367	3883	17.68	34.48	645	14.77	+	0.3707	0.56207	0.22049	0.33098	
+80_10c	NCBP1_10c	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		2143	10475	0	16030	4920	0	11110	976	950	0	26	6.09	19.31	NaN	0.23	728	292290	6509	2.23	751	11.54	23854	3901	3358	16.35	37.51	653	16.74	+	0.35951	0.49842	0.21324	0.31973	
+80_10d	NCBP1_10d	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		2236	10459	0	16358	4560	0	11798	885	860	0	25	5.41	18.86	NaN	0.21	671	271003	6291	2.32	639	10.16	22011	3642	3086	16.55	36.78	559	15.35	+	0.40282	0.58972	0.23411	0.35576	
+80_12a	NCBP1_12a	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		1895	10886	0	15094	6676	0	8418	1969	1936	0	33	13.04	29	NaN	0.39	1529	320912	7267	2.26	851	11.71	34819	5287	4937	15.18	24.5	785	14.85	+	0.37766	0.559	0.22179	0.33143	
+80_12c	NCBP1_12c	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		1839	11021	0	14672	7370	0	7302	2743	2689	0	54	18.7	36.49	NaN	0.74	2134	348273	7561	2.17	906	11.98	42569	5768	5429	13.55	20.12	871	15.1	+	0.37649	0.55905	0.22232	0.33148	
+80_12d	NCBP1_12d	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		2039	10701	0	16441	4961	0	11480	1220	1198	0	22	7.42	24.15	NaN	0.19	1000	284459	6566	2.31	680	10.36	24855	4009	3519	16.13	31.76	579	14.44	+	0.34955	0.54118	0.19666	0.30027	
+80_14a	NCBP1_14a	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		1932	10824	0	15607	6041	0	9566	1592	1571	0	21	10.2	26.01	NaN	0.22	1133	295363	6774	2.29	930	13.73	28984	4583	4188	15.81	30.79	855	18.66	+	0.36812	0.55279	0.22175	0.34198	
+80_14b	NCBP1_14b	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		1929	10844	0	15624	6062	0	9562	1703	1676	0	27	10.9	27.65	NaN	0.28	1151	303259	6931	2.29	920	13.27	29586	4696	4307	15.87	29.63	814	17.33	+	0.38886	0.58949	0.2329	0.36812	
+80_14c	NCBP1_14c	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		1973	10769	0	15815	5723	0	10092	1652	1634	0	18	10.45	28.55	NaN	0.18	1120	298130	6629	2.22	917	13.83	28578	4305	3863	15.06	28.82	816	18.95	+	0.37687	0.5631	0.22451	0.35207	
+80_14d	NCBP1_14d	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		2238	10740	0	15978	5502	0	10476	1321	1290	0	31	8.27	23.45	NaN	0.3	957	300184	6628	2.21	669	10.09	25934	4381	3923	16.89	35.29	703	16.05	+	0.36117	0.57755	0.21071	0.33407	
+80_18a	NCBP1_18a	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		2130	10928	0	15413	6443	0	8970	2233	2180	0	53	14.49	33.84	NaN	0.59	1628	319297	7063	2.21	757	10.72	32650	5111	4757	15.65	26.44	762	14.91	+	0.34707	0.53093	0.20361	0.31488	
+80_18b	NCBP1_18b	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		1935	10822	0	15034	6610	0	8424	2220	2190	0	30	14.77	33.13	NaN	0.36	1679	320928	6970	2.17	884	12.68	35238	5185	4802	14.71	24.72	798	15.39	+	0.37724	0.60002	0.22542	0.37319	
+80_18c	NCBP1_18c	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		2129	10472	0	15767	5177	0	10590	1448	1422	0	26	9.18	27.47	NaN	0.25	1123	292936	6377	2.18	625	9.8	26775	4167	3714	15.56	31.28	583	13.99	+	0.36343	0.55039	0.20984	0.32991	
+80_18d	NCBP1_18d	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		1961	10860	0	14830	6890	0	7940	2441	2416	0	25	16.46	35.07	NaN	0.31	1886	323812	7192	2.22	834	11.6	38593	5508	5181	14.27	22.64	841	15.27	+	0.39022	0.58888	0.22468	0.34031	
+80_20a	NCBP1_20a	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		1984	10725	0	15804	5646	0	10158	1316	1295	0	21	8.33	22.94	NaN	0.21	905	264361	6573	2.49	766	11.65	23158	4442	4061	19.18	34.27	693	15.6	+	0.35938	0.5484	0.2122	0.32454	
+80_20b	NCBP1_20b	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		1902	10800	0	15496	6104	0	9392	1682	1664	0	18	10.85	27.26	NaN	0.19	1229	282427	6780	2.4	784	11.56	28243	4751	4366	16.82	28.26	717	15.09	+	0.3495	0.53847	0.20817	0.32437	
+80_20c	NCBP1_20c	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		2044	10624	0	14440	6808	0	7632	2116	2049	0	67	14.65	30.1	NaN	0.88	1501	317850	7136	2.25	840	11.77	36951	5409	4992	14.64	23.59	820	15.16	+	0.47552	0.68764	0.28545	0.43312	
+80_20d	NCBP1_20d	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		1895	10804	0	15081	6527	0	8554	2048	2015	0	33	13.58	30.87	NaN	0.39	1496	304356	6957	2.29	903	12.98	33133	5103	4680	15.4	25.62	866	16.97	+	0.39358	0.6035	0.23267	0.36904	
+80_7a	NCBP1_7a	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		1914	10866	0	15815	5917	0	9898	1852	1828	0	24	11.71	30.89	NaN	0.24	1486	308523	7050	2.29	790	11.21	31322	4785	4351	15.28	24.17	591	12.35	+	0.36028	0.55592	0.21342	0.33611	
+80_7b	NCBP1_7b	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		1912	10817	0	14874	6758	0	8116	2058	2032	0	26	13.84	30.07	NaN	0.32	1561	319949	7309	2.28	924	12.64	32605	5224	4782	16.02	25.14	821	15.72	+	0.35501	0.56426	0.21478	0.34897	
+80_7c	NCBP1_7c	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		2065	10654	0	15694	5614	0	10080	1312	1288	0	24	8.36	22.94	NaN	0.24	1073	292843	7007	2.39	712	10.16	25487	4607	4107	18.08	32.18	627	13.61	+	0.31101	0.50286	0.18895	0.31073	
+80_7d	NCBP1_7d	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		1923	10870	0	14621	7119	0	7502	2613	2559	0	54	17.87	35.95	NaN	0.72	2039	359725	7507	2.09	858	11.43	41222	5550	5213	13.46	20.55	753	13.57	+	0.35761	0.58276	0.2089	0.34353	
+C_10a	NCBP1_C_10a	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		2156	10555	0	16478	4632	0	11846	463	446	0	17	2.81	9.63	NaN	0.14	258	272845	6387	2.34	689	10.79	21156	3603	3039	17.03	42.03	612	16.99	+	0.47471	0.66448	0.27592	0.41337	
+C_10b	NCBP1_C_10b	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		2239	10411	0	16895	3925	0	12970	514	506	0	8	3.04	12.89	NaN	0.06	318	267147	6017	2.25	563	9.36	19833	3166	2595	15.96	42.11	478	15.1	+	0.43986	0.62843	0.25301	0.38594	
+C_10c	NCBP1_C_10c	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		2134	10630	0	16360	4900	0	11460	630	617	0	13	3.85	12.59	NaN	0.11	386	271054	6359	2.35	728	11.45	22437	3831	3252	17.07	40.45	661	17.25	+	0.4782	0.64895	0.27416	0.39508	
+C_10d	NCBP1_C_10d	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		2019	10743	0	16802	4684	0	12118	693	679	0	14	4.12	14.5	NaN	0.12	405	289839	6260	2.16	760	12.14	22815	3555	3006	15.58	40.09	697	19.61	+	0.51698	0.7255	0.29805	0.43438	
+C_12a	NCBP1_C_12a	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		2042	10654	0	17130	4178	0	12952	866	850	0	16	5.06	20.34	NaN	0.12	596	286368	6016	2.1	573	9.52	22494	3350	2872	14.89	37.12	502	14.99	+	0.41328	0.60441	0.22989	0.34541	
+C_12c	NCBP1_C_12c	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		1908	10871	0	16779	4963	0	11816	1149	1135	0	14	6.85	22.87	NaN	0.12	782	274449	6478	2.36	766	11.82	22953	3863	3407	16.83	36.69	635	16.44	+	0.40339	0.58371	0.22452	0.32945	
+C_12d	NCBP1_C_12d	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		2083	10736	0	16711	4761	0	11950	750	742	0	8	4.49	15.58	NaN	0.07	474	274354	6149	2.24	792	12.88	22066	3614	3071	16.38	39.64	669	18.51	+	0.40746	0.58192	0.23411	0.35116	
+C_14a	NCBP1_C_14a	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		1918	10794	0	15613	5975	0	9638	1835	1823	0	12	11.75	30.51	NaN	0.12	1375	301444	6872	2.28	835	12.15	30952	4723	4304	15.26	27.83	717	15.18	+	0.34056	0.50366	0.20237	0.30789	
+C_14b	NCBP1_C_14b	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		2217	10314	0	15957	4671	0	11286	1058	1045	0	13	6.63	22.37	NaN	0.12	727	285089	6050	2.12	645	10.66	23413	3710	3230	15.85	35.72	563	15.18	+	0.37448	0.58215	0.21271	0.34008	
+C_14c	NCBP1_C_14c	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		2601	10083	0	15602	4564	0	11038	1141	1124	0	17	7.31	24.63	NaN	0.15	719	295870	5754	1.94	667	11.59	22015	3393	2982	15.41	40.69	701	20.66	+	0.30193	0.49697	0.17604	0.2919	
+C_14d	NCBP1_C_14d	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		1981	10703	0	15130	6276	0	8854	2376	2348	0	28	15.7	37.41	NaN	0.32	1911	325135	6829	2.1	743	10.88	37356	4984	4634	13.34	20.8	642	12.88	+	0.37691	0.59215	0.21776	0.35043	
+C_18a	NCBP1_C_18a	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		2247	10304	0	16279	4329	0	11950	971	958	0	13	5.96	22.13	NaN	0.11	671	284895	5831	2.05	572	9.81	21973	3452	2971	15.71	36.83	524	15.18	+	0.40623	0.59359	0.23181	0.36018	
+C_18b	NCBP1_C_18b	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		2027	10732	0	14880	6584	0	8296	1938	1919	0	19	13.02	29.15	NaN	0.23	1348	301866	7008	2.32	853	12.17	32408	5197	4837	16.04	27.78	823	15.84	+	0.37751	0.56668	0.2223	0.34621	
+C_18c	NCBP1_C_18c	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		2227	10800	0	15485	6115	0	9370	1907	1887	0	20	12.32	30.86	NaN	0.21	1172	313136	6735	2.15	786	11.67	28387	4633	4250	16.32	32.58	854	18.43	+	0.33333	0.49215	0.19188	0.28037	
+C_18d	NCBP1_C_18d	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		2116	10477	0	15779	5173	0	10606	1237	1222	0	15	7.84	23.62	NaN	0.14	805	255355	5969	2.34	761	12.75	22199	3909	3473	17.61	34.13	629	16.09	+	0.3585	0.54129	0.20258	0.31417	
+C_20a	NCBP1_C_20a	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		1919	10828	0	14407	7249	0	7158	2199	2147	0	52	15.26	29.62	NaN	0.73	1474	307608	7230	2.35	1021	14.12	37302	5600	5175	15.01	23.69	989	17.66	+	0.44167	0.62512	0.26559	0.37973	
+C_20b	NCBP1_C_20b	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		1971	10690	0	14825	6555	0	8270	1912	1881	0	31	12.9	28.7	NaN	0.37	1281	310294	6818	2.2	922	13.52	32550	5044	4618	15.5	28.35	906	17.96	+	0.39958	0.61722	0.23943	0.38373	
+C_20c	NCBP1_C_20c	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		2260	10832	0	15527	6137	0	9390	1789	1710	0	79	11.52	27.86	NaN	0.84	1016	305242	6679	2.19	820	12.28	27447	4592	4214	16.73	32.39	866	18.86	+	0.43011	0.59297	0.25208	0.35399	
+C_20d	NCBP1_C_20d	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		2035	10554	0	14936	6172	0	8764	1444	1431	0	13	9.67	23.19	NaN	0.15	1043	291230	6803	2.34	852	12.52	28325	4829	4217	17.05	32.74	842	17.44	+	0.3484	0.55459	0.20901	0.34711	
+C_7a	NCBP1_C_7a	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		2435	10570	0	16485	4655	0	11830	1342	1329	0	13	8.14	28.55	NaN	0.11	862	290632	5944	2.05	675	11.36	21243	3505	3096	16.5	41.32	690	19.69	+	0.29167	0.47052	0.16891	0.26726	
+C_7b	NCBP1_C_7b	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		1904	10876	0	15629	6123	0	9506	1604	1584	0	20	10.26	25.87	NaN	0.21	1004	320211	6907	2.16	1047	15.16	29101	4475	3957	15.38	28.84	937	20.94	+	0.35454	0.57083	0.21348	0.36145	
+C_7c	NCBP1_C_7c	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		1948	10723	0	15869	5577	0	10292	1324	1307	0	17	8.34	23.44	NaN	0.17	895	295411	6831	2.31	803	11.76	25697	4304	3798	16.75	32.78	715	16.61	+	0.35103	0.51874	0.20799	0.32179	
+C_7d	NCBP1_C_7d	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		1971	10710	0	15818	5602	0	10216	1472	1453	0	19	9.31	25.94	NaN	0.19	1098	308174	6870	2.23	744	10.83	28550	4400	3951	15.41	28.82	684	15.55	+	0.39937	0.58405	0.23236	0.34948	
+2C_10a	NCBP2_3_C_10a	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		5401	5205	0	7269	3141	0	4128	249	240	0	9	3.43	7.64	NaN	0.22	173	367562	3728	1.01	474	12.71	22670	2487	2252	10.97	29.57	465	18.7	+	0.62201	0.78563	0.36162	0.47492	
+2C_10b	NCBP2_3_C_10b	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		4502	8394	0	11069	5719	0	5350	733	721	0	12	6.62	12.61	NaN	0.22	514	337962	6135	1.82	832	13.56	26431	4361	4011	16.5	34.24	899	20.61	+	0.75265	0.98312	0.46382	0.6338	
+2C_10c	NCBP2_3_C_10c	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		5232	6204	0	8798	3610	0	5188	313	303	0	10	3.56	8.39	NaN	0.19	197	392714	4310	1.1	582	13.5	24132	2723	2446	11.28	31.77	600	22.03	+	0.86549	1.0668	0.50647	0.63363	
+2C_10d	NCBP2_3_C_10d	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		5318	5657	0	7800	3514	0	4286	362	354	0	8	4.64	10.07	NaN	0.19	253	378218	4051	1.07	513	12.66	22670	2741	2514	12.09	29.63	519	18.93	+	0.69952	0.8837	0.39898	0.51032	
+2C_12a	NCBP2_3_C_12a	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		4218	8684	0	10758	6610	0	4148	1420	1385	0	35	13.2	20.95	NaN	0.84	1030	326314	6715	2.06	834	12.42	26912	5267	4968	19.57	36.59	954	18.11	+	0.51873	0.76527	0.30364	0.45948	
+2C_12b	NCBP2_3_C_12b	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		4683	7359	0	9269	5449	0	3820	1094	1072	0	22	11.8	19.67	NaN	0.58	745	357384	5629	1.58	742	13.18	26523	4256	3992	16.05	32.89	748	17.58	+	0.60719	0.85887	0.33399	0.47351	
+2C_12c	NCBP2_3_C_12c	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		5592	4702	0	6518	2886	0	3632	256	255	0	1	3.93	8.84	NaN	0.03	182	403343	3374	0.84	405	12	24519	2267	2068	9.25	27.75	421	18.57	+	0.60939	0.76529	0.32894	0.41124	
+2C_12d	NCBP2_3_C_12d	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		4507	7769	0	9362	6174	0	3188	1647	1606	0	41	17.59	26.01	NaN	1.29	1237	356059	6150	1.73	794	12.91	29309	4960	4756	16.92	30.88	861	17.36	+	0.61142	0.82649	0.34793	0.48538	
+2C_14a	NCBP2_3_C_14a	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		4791	6594	0	8069	5119	0	2950	741	726	0	15	9.18	14.18	NaN	0.51	546	360179	5064	1.41	685	13.53	27163	4061	3806	14.95	31.61	734	18.07	+	0.56743	0.74911	0.32198	0.43182	
+2C_14b	NCBP2_3_C_14b	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		4081	9098	0	11006	7188	0	3818	1766	1696	0	70	16.05	23.59	NaN	1.83	1224	334386	7080	2.12	931	13.15	29123	5613	5384	19.27	34.16	1041	18.55	+	0.61275	0.83447	0.35513	0.49576	
+2C_14c	NCBP2_3_C_14c	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		5047	6177	0	7959	4395	0	3564	671	651	0	20	8.43	14.81	NaN	0.56	475	364749	4681	1.28	583	12.45	25532	3430	3221	13.43	31.46	624	18.19	+	0.5573	0.74801	0.3094	0.42315	
+2C_14d	NCBP2_3_C_14d	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		3472	11558	0	13892	9224	0	4668	575	551	0	24	4.14	5.97	NaN	0.51	463	385905	9267	2.4	1104	11.91	41565	7388	6907	17.77	25.27	1226	16.59	+	0.57074	0.82532	0.38072	0.55487	
+2C_18a	NCBP2_3_C_18a	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		3153	11846	0	13847	9845	0	4002	3899	3668	0	231	28.16	37.26	NaN	5.77	2955	307682	9710	3.16	1093	11.26	36846	8131	7939	22.07	29.84	1181	14.52	+	0.65666	0.93251	0.40338	0.59303	
+2C_18b	NCBP2_3_C_18b	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		3934	9466	0	11948	6984	0	4964	414	410	0	4	3.47	5.87	NaN	0.08	302	347650	7426	2.14	805	10.84	30102	5510	5137	18.3	33.69	923	16.75	+	0.78866	1.0474	0.4914	0.66839	
+2C_18c	NCBP2_3_C_18c	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		4900	6731	0	8648	4814	0	3834	694	678	0	16	8.02	14.08	NaN	0.42	478	368293	5153	1.4	644	12.5	24808	3750	3485	15.12	33.86	697	18.59	+	0.65672	0.86131	0.36693	0.49339	
+2C_18d	NCBP2_3_C_18d	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		4798	6840	0	8689	4991	0	3698	597	585	0	12	6.87	11.72	NaN	0.32	425	345714	5224	1.51	636	12.17	24729	3981	3707	16.1	35.46	685	17.21	+	0.56292	0.75007	0.31503	0.42313	
+2C_20a	NCBP2_3_C_20a	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		4901	6553	0	8391	4715	0	3676	668	655	0	13	7.96	13.89	NaN	0.35	448	341519	4855	1.42	654	13.47	24038	3671	3423	15.27	33.99	684	18.63	+	0.49525	0.67421	0.26958	0.37219	
+2C_20b	NCBP2_3_C_20b	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		4272	8477	0	10260	6694	0	3566	1721	1679	0	42	16.77	25.08	NaN	1.18	1212	355409	6646	1.87	868	13.06	29886	5288	5084	17.69	33.2	947	17.91	+	0.56169	0.78408	0.32485	0.4604	
+2C_20c	NCBP2_3_C_20c	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		3808	9817	0	11898	7736	0	4162	1973	1931	0	42	16.58	24.96	NaN	1.01	1340	326100	7824	2.4	933	11.92	29757	6184	5952	20.78	36.08	1077	17.42	+	0.58835	0.82718	0.35366	0.50903	
+2C_20d	NCBP2_3_C_20d	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		4508	7781	0	9605	5957	0	3648	1161	1131	0	30	12.09	18.99	NaN	0.82	760	361219	5993	1.66	815	13.6	28417	4687	4463	16.49	34.44	828	17.67	+	0.57226	0.76507	0.32537	0.44647	
+2C_7a	NCBP2_3_C_7a	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		4744	7242	0	9280	5204	0	4076	856	838	0	18	9.22	16.1	NaN	0.44	578	347019	5454	1.57	703	12.89	24244	4004	3794	16.52	36.35	800	19.98	+	0.56266	0.75534	0.3239	0.44496	
+2C_7b	NCBP2_3_C_7b	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		5087	6074	0	8122	4026	0	4096	437	432	0	5	5.38	10.73	NaN	0.12	265	363149	4322	1.19	596	13.79	23748	3067	2846	12.91	34.08	632	20.61	+	0.62352	0.81347	0.35158	0.46588	
+2C_7c	NCBP2_3_C_7c	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		5043	6367	0	8466	4268	0	4198	606	598	0	8	7.16	14.01	NaN	0.19	400	369993	4697	1.27	612	13.03	25291	3297	3038	13.04	33.18	673	20.41	+	0.5316	0.7372	0.30041	0.42419	
+2C_7d	NCBP2_3_C_7d	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		4778	7058	0	8856	5260	0	3596	1219	1187	0	32	13.76	22.57	NaN	0.89	878	348862	5446	1.56	696	12.78	26018	4212	3999	16.19	31.67	722	17.14	+	0.59704	0.81541	0.33372	0.46853	
+2_10a	NCBP2_10a	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		4556	7806	0	10139	5473	0	4666	487	448	0	39	4.8	8.19	NaN	0.84	316	383951	5878	1.53	814	13.85	31020	4309	4002	13.89	36.99	841	19.52	+	0.63237	0.80898	0.38234	0.51121	
+2_10b	NCBP2_10b	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		4332	8427	0	11104	5750	0	5354	488	474	0	14	4.39	8.24	NaN	0.26	346	388917	6297	1.62	824	13.09	33693	4520	4253	13.42	34.92	845	18.69	+	0.56985	0.75541	0.36246	0.49373	
+2_10c	NCBP2_10c	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		4244	8688	0	11404	5972	0	5432	773	738	0	35	6.78	12.36	NaN	0.64	518	386923	6455	1.67	907	14.05	33505	4668	4353	13.93	34.94	885	18.96	+	0.57406	0.78386	0.33816	0.46836	
+2_10d	NCBP2_10d	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		4497	8086	0	10731	5439	0	5292	678	655	0	23	6.32	12.04	NaN	0.43	465	400003	5992	1.5	778	12.98	33726	4254	4008	12.61	34.22	833	19.58	+	0.65013	0.83929	0.39267	0.52111	
+2_12a	NCBP2_12a	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		3938	9352	0	11297	7407	0	3890	1151	1125	0	26	10.19	15.19	NaN	0.67	896	375138	7341	1.96	964	13.13	35591	5868	5614	16.49	36.33	1085	18.49	+	0.53184	0.76166	0.31645	0.45334	
+2_12b	NCBP2_12b	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		4029	9257	0	11338	7176	0	4162	1744	1701	0	43	15.38	23.7	NaN	1.03	1364	406274	7428	1.83	895	12.05	31200	5779	5523	18.52	35.94	1027	17.77	+	0.58356	0.82142	0.35924	0.5201	
+2_12c	NCBP2_12c	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		3881	9611	0	12063	7159	0	4904	1943	1899	0	44	16.11	26.53	NaN	0.9	1610	376440	7723	2.05	885	11.46	33019	5893	5640	17.85	34.26	908	15.41	+	0.61309	0.83163	0.37774	0.52929	
+2_12d	NCBP2_12d	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		3390	11243	0	13193	9291	0	3902	3417	3303	0	114	25.9	35.55	NaN	2.92	2731	365954	9141	2.5	1136	12.43	40912	7546	7298	18.44	31.75	1277	16.92	+	0.59897	0.85265	0.37074	0.53965	
+2_14a	NCBP2_14a	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		3431	10900	0	13153	8647	0	4506	1471	1413	0	58	11.18	16.34	NaN	1.29	898	324325	8532	2.63	1134	13.29	33396	6762	6528	20.25	39.6	1296	19.17	+	0.58013	0.80827	0.35482	0.51117	
+2_14b	NCBP2_14b	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		4138	9001	0	11516	6486	0	5030	1136	1103	0	33	9.86	17.01	NaN	0.66	773	381461	6710	1.76	951	14.17	33220	5031	4741	15.14	35.6	1033	20.53	+	0.57751	0.78416	0.35089	0.49087	
+2_14c	NCBP2_14c	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		3917	9714	0	12118	7310	0	4808	1453	1420	0	33	11.99	19.43	NaN	0.69	1009	367713	7428	2.02	1026	13.81	34464	5679	5425	16.48	36.54	1127	19.85	+	0.58219	0.80995	0.34639	0.50094	
+2_14d	NCBP2_14d	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		4130	9036	0	11560	6512	0	5048	1162	1135	0	27	10.05	17.43	NaN	0.53	826	372138	6722	1.81	990	14.73	33291	4989	4710	14.99	36.33	1069	21.43	+	0.6427	0.89629	0.3821	0.54082	
+2_18a	NCBP2_18a	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		4017	9144	0	11157	7131	0	4026	1441	1417	0	24	12.92	19.87	NaN	0.6	1093	364085	7181	1.97	932	12.98	34140	5690	5421	16.67	36.52	1056	18.56	+	0.59512	0.8158	0.35574	0.49653	
+2_18b	NCBP2_18b	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		4255	8706	0	10981	6431	0	4550	1224	1201	0	23	11.15	18.68	NaN	0.51	962	396553	6674	1.68	877	13.14	34753	5096	4836	14.66	35.54	963	18.9	+	0.54933	0.74762	0.32606	0.45192	
+2_18d	NCBP2_18d	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		3971	9491	0	11565	7417	0	4148	2039	1989	0	50	17.63	26.82	NaN	1.21	1581	378263	7486	1.98	944	12.61	33400	5922	5657	17.73	35.87	1085	18.32	+	0.53578	0.75526	0.32407	0.47451	
+2_20a	NCBP2_20a	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		4061	9072	0	11135	7009	0	4126	1144	1113	0	31	10.27	15.88	NaN	0.75	768	366016	6921	1.89	995	14.38	31476	5450	5133	17.31	34.83	1053	19.32	+	0.54057	0.7783	0.30667	0.44905	
+2_20b	NCBP2_20b	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		2804	12863	0	14984	10742	0	4242	3344	3229	0	115	22.32	30.06	NaN	2.71	2390	299738	10421	3.48	1283	12.31	37649	8664	8405	23.01	31.03	1429	16.49	+	0.6245	0.88207	0.38871	0.56633	
+2_20c	NCBP2_20c	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		2935	12858	0	14981	10735	0	4246	3539	3482	0	57	23.62	32.44	NaN	1.34	2641	337805	10460	3.1	1300	12.43	41091	8604	8356	20.94	31.85	1507	17.52	+	0.62783	0.89662	0.38553	0.56583	
+2_20d	NCBP2_20d	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		3545	10944	0	12937	8951	0	3986	2831	2735	0	96	21.88	30.56	NaN	2.41	2201	382137	8697	2.28	1109	12.75	37729	7043	6756	18.67	30.35	1251	17.76	+	0.63397	0.90532	0.38162	0.55974	
+2_7a	NCBP2_7a	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		4380	8337	0	10988	5686	0	5302	607	585	0	22	5.52	10.29	NaN	0.41	343	392771	6104	1.55	935	15.32	32049	4313	3998	13.46	37.12	945	21.91	+	0.53469	0.73607	0.31138	0.43945	
+2_7b	NCBP2_7b	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		4006	9394	0	11788	7000	0	4788	1270	1229	0	41	10.77	17.56	NaN	0.86	869	358004	7212	2.01	955	13.24	32568	5496	5217	16.88	36.2	1039	18.9	+	0.57837	0.79513	0.33309	0.45824	
+2_7c	NCBP2_7c	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		3879	9862	0	12102	7622	0	4480	1067	1019	0	48	8.82	13.37	NaN	1.07	697	367826	7585	2.06	1062	14	34301	5873	5572	17.12	35.89	1152	19.62	+	0.6247	0.8549	0.38932	0.56064	
+3_10a	NCBP3_10a	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		4206	8454	0	10752	6156	0	4596	480	463	0	17	4.46	7.52	NaN	0.37	340	342143	6733	1.97	763	11.33	28287	4961	4568	17.54	33.2	810	16.33	+	0.69404	0.91269	0.40051	0.5357	
+3_10b	NCBP3_10b	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		5081	5817	0	7601	4033	0	3568	342	336	0	6	4.5	8.33	NaN	0.17	225	389281	4342	1.12	545	12.55	25337	3170	2895	12.51	29.52	557	17.57	+	0.63549	0.79905	0.35109	0.44105	
+3_12b	NCBP3_12b	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		4620	7124	0	8833	5415	0	3418	459	444	0	15	5.2	8.2	NaN	0.44	334	358045	5567	1.55	733	13.17	26554	4332	4040	16.31	32.85	733	16.92	+	0.71336	0.92268	0.39611	0.52114	
+3_12d	NCBP3_12d	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		3889	9497	0	11470	7524	0	3946	1713	1635	0	78	14.93	21.73	NaN	1.98	1188	347440	7559	2.18	894	11.83	29590	5977	5721	20.2	35.31	973	16.28	+	0.63747	0.87723	0.37249	0.52304	
+3_14a	NCBP3_14a	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		5391	4523	0	5715	3331	0	2384	249	246	0	3	4.36	7.39	NaN	0.13	175	359747	3448	0.96	502	14.56	22811	2614	2390	11.46	28.06	495	18.94	+	0.7182	0.91303	0.38497	0.4981	
+3_14b	NCBP3_14b	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		4805	6847	0	9066	4628	0	4438	442	427	0	15	4.88	9.23	NaN	0.34	323	382426	5230	1.37	691	13.21	28323	3650	3307	12.89	30.76	687	18.82	+	0.9596	1.176	0.53981	0.67105	
+3_14c	NCBP3_14c	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		4389	7954	0	9768	6140	0	3628	744	704	0	40	7.62	11.47	NaN	1.1	370	334445	6000	1.79	905	15.08	25790	4602	4388	17.84	35.48	940	20.43	+	0.7026	0.92794	0.40283	0.54254	
+3_18a	NCBP3_18a	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		5234	5278	0	6579	3977	0	2602	239	231	0	8	3.63	5.81	NaN	0.31	187	434379	4283	0.99	513	11.98	33457	3286	3032	9.82	30.19	520	15.82	+	0.75237	0.9531	0.40853	0.51963	
+3_18b	NCBP3_18b	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		4239	8399	0	10202	6596	0	3606	1275	1233	0	42	12.5	18.69	NaN	1.16	984	353023	6770	1.92	759	11.21	30203	5335	5059	17.66	32.47	844	15.82	+	0.83656	1.0918	0.48582	0.65436	
+3_18c	NCBP3_18c	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		4463	7689	0	9381	5997	0	3384	1014	975	0	39	10.81	16.26	NaN	1.15	809	376276	6229	1.66	714	11.46	30626	4869	4586	15.9	30.67	790	16.23	+	0.74889	0.9945	0.42662	0.57936	
+3_20a	NCBP3_20a	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		4826	6112	0	7266	4958	0	2308	409	409	0	0	5.63	8.25	NaN	0	273	273088	4824	1.77	643	13.33	18764	3990	3811	21.26	35.54	687	17.22	+	0.64302	0.8438	0.35247	0.46317	
+3_20b	NCBP3_20b	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		4433	7683	0	9302	6064	0	3238	964	926	0	38	10.36	15.27	NaN	1.17	630	365381	6027	1.65	800	13.27	28657	4789	4512	16.71	32.72	821	17.14	+	0.53029	0.73748	0.29735	0.42087	
+3_20d	NCBP3_20d	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		4532	7920	0	9665	6175	0	3490	1108	1076	0	32	11.46	17.43	NaN	0.92	686	432605	6115	1.41	875	14.31	32443	4759	4501	14.67	33.68	963	20.24	+	0.54437	0.75182	0.32031	0.45603	
+3_7b	NCBP3_7b	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		4689	7172	0	9178	5166	0	4012	465	452	0	13	5.07	8.75	NaN	0.32	340	381603	5499	1.44	728	13.24	28815	4041	3692	14.02	32.65	772	19.1	+	0.70525	0.93035	0.41529	0.55368	
+3_7d	NCBP3_7d	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		4695	7204	0	9199	5209	0	3990	609	599	0	10	6.62	11.5	NaN	0.25	389	402235	5420	1.35	732	13.51	30111	4018	3731	13.34	34.02	761	18.94	+	0.618	0.8259	0.35514	0.48826	
+tkQE171103_JL601_Control_1_10_02	tk_NCBP3_C_1_10_02	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		12630	25557	0	28742	22372	0	6370	12030	11444	0	586	41.86	51.15	NaN	9.2	9847	735770	24173	3.29	817	3.38	96813	20863	20503	21.55	30.82	1350	6.47	+	0.80875	1.1211	0.51812	0.74217	
+tkQE171103_JL601_Control_1_12	tk_NCBP3_C_1_12	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		14757	20936	0	23379	18493	0	4886	4898	4826	0	72	20.95	26.1	NaN	1.47	3763	959924	19569	2.04	824	4.21	95135	17146	16557	18.02	29.54	1187	6.92	+	0.75498	1.0177	0.45711	0.62462	
+tkQE171103_JL601_Control_1_18	tk_NCBP3_C_1_18	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		17091	12487	0	13704	11270	0	2434	2737	2693	0	44	19.97	23.9	NaN	1.81	2286	1197012	11685	0.98	488	4.18	93851	10552	10043	11.24	19.94	613	5.81	+	0.85241	1.0992	0.50336	0.66158	
+tkQE171103_JL601_Control_1_7	tk_NCBP3_C_1_7	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		18402	8828	0	9979	7677	0	2302	753	733	0	20	7.55	9.55	NaN	0.87	549	1223275	7998	0.65	437	5.46	91085	7026	6549	7.71	16.67	519	7.39	+	0.99814	1.2343	0.61615	0.77772	
+tkQE171103_JL601_Control_2_10	tk_NCBP3_C_2_10	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		11752	29079	0	31415	26743	0	4672	15596	15007	0	589	49.65	56.12	NaN	12.61	13323	980348	27858	2.84	859	3.08	131165	25150	24768	19.17	25.24	1389	5.52	+	0.82018	1.1459	0.53262	0.77148	
+tkQE171103_JL601_Control_2_12	tk_NCBP3_C_2_12	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		15681	17378	0	18986	15770	0	3216	4124	4075	0	49	21.72	25.84	NaN	1.52	3188	1086466	16345	1.5	672	4.11	99846	14692	14253	14.71	25.76	956	6.51	+	0.79809	1.0675	0.47885	0.65451	
+tkQE171103_JL601_Control_2_18	tk_NCBP3_Cl_2_18	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		18174	9089	0	10024	8154	0	1870	1784	1761	0	23	17.8	21.6	NaN	1.23	1477	1346065	8480	0.63	375	4.42	99806	7631	7224	7.65	16.03	450	5.9	+	0.94843	1.1967	0.55386	0.70622	
+tkQE171103_JL601_Control_2_7_02	tk_NCBP3_C_2_7_02	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		19239	4065	0	4749	3381	0	1368	310	300	0	10	6.53	8.87	NaN	0.73	259	1382949	3709	0.27	156	4.21	104837	3200	2963	3.05	8.58	169	5.28	+	1.1715	1.4415	0.72178	0.913	
+tkQE171103_JL601_Control_3_10	tk_NCBP3_C_3_10	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		11122	30542	0	33960	27124	0	6836	15162	14499	0	663	44.65	53.45	NaN	9.7	12759	927907	29185	3.15	868	2.97	122404	25606	25161	20.92	28.05	1398	5.46	+	0.78968	1.109	0.50629	0.7396	
+tkQE171103_JL601_Control_3_12	tk_NCBP3_C_3_12	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		17725	10255	0	11037	9473	0	1564	2197	2170	0	27	19.91	22.91	NaN	1.73	1796	1265771	9716	0.77	357	3.67	98457	8969	8683	9.11	18.16	457	5.1	+	0.82293	1.0702	0.48667	0.64647	
+tkQE171103_JL601_Control_3_18_02	tk_NCBP3_C_3_18_02	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		17644	10867	0	12182	9552	0	2630	1808	1775	0	33	14.84	18.58	NaN	1.25	1482	1339990	10240	0.76	314	3.07	118732	9125	8662	7.69	14.97	381	4.18	+	1.0405	1.2981	0.61991	0.7897	
+tkQE171103_JL601_Control_3_7_02	tk_NCBP3_C_3_7_02	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		19760	4558	0	5195	3921	0	1274	454	447	0	7	8.74	11.4	NaN	0.55	336	1222922	4236	0.35	169	3.99	106101	3708	3529	3.49	9.7	195	5.26	+	1.1403	1.3897	0.68216	0.84062	
+tkQE171103_JL601_NCBP3_1_10_02	tk_NCBP3_1_10_02	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		17491	13860	0	15324	12396	0	2928	3541	3438	0	103	23.11	27.73	NaN	3.52	3065	1106052	13305	1.2	345	2.59	122275	11905	11545	9.74	16.53	454	3.81	+	0.90516	1.184	0.55851	0.74833	
+tkQE171103_JL601_NCBP3_1_12	tk_NCBP3_1_12	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		16408	16146	0	17879	14413	0	3466	3799	3730	0	69	21.25	25.88	NaN	1.99	3127	1116420	14878	1.33	800	5.38	94603	13189	12589	13.94	24.17	1015	7.7	+	0.8303	1.0856	0.49584	0.66341	
+tkQE171103_JL601_NCBP3_1_18	tk_NCBP3_1_18	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		16321	15460	0	17450	13470	0	3980	2484	2458	0	26	14.23	18.25	NaN	0.65	2064	1147790	14321	1.25	624	4.36	97556	12548	11891	12.86	23.24	797	6.35	+	0.93484	1.2154	0.56014	0.7441	
+tkQE171103_JL601_NCBP3_1_7	tk_NCBP3_1_7	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		18088	9634	0	10803	8465	0	2338	1778	1755	0	23	16.46	20.73	NaN	0.98	1484	1245205	8664	0.7	562	6.49	93254	7692	7323	8.25	17.46	643	8.36	+	0.87358	1.1129	0.52784	0.68377	
+tkQE171103_JL601_NCBP3_2_10	tk_NCBP3_2_10	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		13662	22419	0	24337	20501	0	3836	10213	9870	0	343	41.96	48.14	NaN	8.94	8821	975014	21307	2.19	680	3.19	115028	19303	18931	16.78	23.75	1040	5.39	+	0.79045	1.1015	0.50471	0.71786	
+tkQE171103_JL601_NCBP3_2_12	tk_NCBP3_2_12	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		17751	9556	0	10419	8693	0	1726	2126	2078	0	48	20.41	23.9	NaN	2.78	1806	1191142	9015	0.76	344	3.82	88771	8223	7937	9.26	18.23	418	5.08	+	0.82599	1.0655	0.4767	0.62575	
+tkQE171103_JL601_NCBP3_2_18	tk_NCBP3_2_18	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		16862	13545	0	15279	11811	0	3468	2651	2617	0	34	17.35	22.16	NaN	0.98	2136	1172038	12414	1.06	607	4.89	94506	10920	10382	11.55	21.21	731	6.69	+	0.8513	1.1088	0.50659	0.6697	
+tkQE171103_JL601_NCBP3_2_7_02	tk_NCBP3_2_7_02	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		18116	8282	0	9125	7439	0	1686	1504	1474	0	30	16.48	19.81	NaN	1.78	1268	1319485	7835	0.59	252	3.22	114199	7136	6787	6.25	12.57	287	4.02	+	0.98955	1.2469	0.58224	0.74534	
+tkQE171103_JL601_NCBP3_3_10	tk_NCBP3_3_10	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		12419	26798	0	30036	23560	0	6476	11142	10701	0	441	37.1	45.42	NaN	6.81	9420	944590	25425	2.69	840	3.3	110387	22125	21632	20.04	29.17	1316	5.95	+	0.81114	1.1126	0.50781	0.72001	
+tkQE171103_JL601_NCBP3_3_12	tk_NCBP3_3_12	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		16843	12939	0	14092	11786	0	2306	3518	3483	0	35	24.96	29.55	NaN	1.52	2975	1214019	12138	1	469	3.86	103401	11092	10769	10.73	19.43	608	5.48	+	0.78825	1.0408	0.47157	0.63308	
+tkQE171103_JL601_NCBP3_3_18_02	tk_NCBP3_3_18_02	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		19433	2458	0	3011	1905	0	1106	436	421	0	15	14.48	22.1	NaN	1.36	376	1180970	2268	0.19	73	3.22	85658	1793	1639	2.09	11.56	101	5.63	+	0.68751	0.86256	0.48917	0.61973	
+tkQE171103_JL601_NCBP3_3_7_02	tk_NCBP3_3_7_02	Trypsin/P	Specific			False	Oxidation (M);Acetyl (Protein N-term);Phospho (STY)	Carbamidomethyl (C)			False	False	1	2		Standard		18321	8990	0	9961	8019	0	1942	1530	1498	0	32	15.36	18.68	NaN	1.65	1292	1211879	8559	0.71	250	2.92	116717	7680	7382	6.58	13.47	314	4.09	+	1.0105	1.2538	0.60242	0.7646	
+NCBP1_10a																																	916																		
+NCBP1_10b																																	718																		
+NCBP1_10c																																	728																		
+NCBP1_10d																																	671																		
+NCBP1_12a																																	1529																		
+NCBP1_12c																																	2134																		
+NCBP1_12d																																	1000																		
+NCBP1_14a																																	1133																		
+NCBP1_14b																																	1151																		
+NCBP1_14c																																	1120																		
+NCBP1_14d																																	957																		
+NCBP1_18a																																	1628																		
+NCBP1_18b																																	1679																		
+NCBP1_18c																																	1123																		
+NCBP1_18d																																	1886																		
+NCBP1_20a																																	905																		
+NCBP1_20b																																	1229																		
+NCBP1_20c																																	1501																		
+NCBP1_20d																																	1496																		
+NCBP1_7a																																	1486																		
+NCBP1_7b																																	1561																		
+NCBP1_7c																																	1073																		
+NCBP1_7d																																	2039																		
+NCBP1_C_10a																																	258																		
+NCBP1_C_10b																																	318																		
+NCBP1_C_10c																																	386																		
+NCBP1_C_10d																																	405																		
+NCBP1_C_12a																																	596																		
+NCBP1_C_12c																																	782																		
+NCBP1_C_12d																																	474																		
+NCBP1_C_14a																																	1375																		
+NCBP1_C_14b																																	727																		
+NCBP1_C_14c																																	719																		
+NCBP1_C_14d																																	1911																		
+NCBP1_C_18a																																	671																		
+NCBP1_C_18b																																	1348																		
+NCBP1_C_18c																																	1172																		
+NCBP1_C_18d																																	805																		
+NCBP1_C_20a																																	1474																		
+NCBP1_C_20b																																	1281																		
+NCBP1_C_20c																																	1016																		
+NCBP1_C_20d																																	1043																		
+NCBP1_C_7a																																	862																		
+NCBP1_C_7b																																	1004																		
+NCBP1_C_7c																																	895																		
+NCBP1_C_7d																																	1098																		
+NCBP2_10a																																	316																		
+NCBP2_10b																																	346																		
+NCBP2_10c																																	518																		
+NCBP2_10d																																	465																		
+NCBP2_12a																																	896																		
+NCBP2_12b																																	1364																		
+NCBP2_12c																																	1610																		
+NCBP2_12d																																	2731																		
+NCBP2_14a																																	898																		
+NCBP2_14b																																	773																		
+NCBP2_14c																																	1009																		
+NCBP2_14d																																	826																		
+NCBP2_18a																																	1093																		
+NCBP2_18b																																	962																		
+NCBP2_18d																																	1581																		
+NCBP2_20a																																	768																		
+NCBP2_20b																																	2390																		
+NCBP2_20c																																	2641																		
+NCBP2_20d																																	2201																		
+NCBP2_3_C_10a																																	173																		
+NCBP2_3_C_10b																																	514																		
+NCBP2_3_C_10c																																	197																		
+NCBP2_3_C_10d																																	253																		
+NCBP2_3_C_12a																																	1030																		
+NCBP2_3_C_12b																																	745																		
+NCBP2_3_C_12c																																	182																		
+NCBP2_3_C_12d																																	1237																		
+NCBP2_3_C_14a																																	546																		
+NCBP2_3_C_14b																																	1224																		
+NCBP2_3_C_14c																																	475																		
+NCBP2_3_C_14d																																	463																		
+NCBP2_3_C_18a																																	2955																		
+NCBP2_3_C_18b																																	302																		
+NCBP2_3_C_18c																																	478																		
+NCBP2_3_C_18d																																	425																		
+NCBP2_3_C_20a																																	448																		
+NCBP2_3_C_20b																																	1212																		
+NCBP2_3_C_20c																																	1340																		
+NCBP2_3_C_20d																																	760																		
+NCBP2_3_C_7a																																	578																		
+NCBP2_3_C_7b																																	265																		
+NCBP2_3_C_7c																																	400																		
+NCBP2_3_C_7d																																	878																		
+NCBP2_7a																																	343																		
+NCBP2_7b																																	869																		
+NCBP2_7c																																	697																		
+NCBP3_10a																																	340																		
+NCBP3_10b																																	225																		
+NCBP3_12b																																	334																		
+NCBP3_12d																																	1188																		
+NCBP3_14a																																	175																		
+NCBP3_14b																																	323																		
+NCBP3_14c																																	370																		
+NCBP3_18a																																	187																		
+NCBP3_18b																																	984																		
+NCBP3_18c																																	809																		
+NCBP3_20a																																	273																		
+NCBP3_20b																																	630																		
+NCBP3_20d																																	686																		
+NCBP3_7b																																	340																		
+NCBP3_7d																																	389																		
+tk_NCBP3_1_10_02																																	3065																		
+tk_NCBP3_1_12																																	3127																		
+tk_NCBP3_1_18																																	2064																		
+tk_NCBP3_1_7																																	1484																		
+tk_NCBP3_2_10																																	8821																		
+tk_NCBP3_2_12																																	1806																		
+tk_NCBP3_2_18																																	2136																		
+tk_NCBP3_2_7_02																																	1268																		
+tk_NCBP3_3_10																																	9420																		
+tk_NCBP3_3_12																																	2975																		
+tk_NCBP3_3_18_02																																	376																		
+tk_NCBP3_3_7_02																																	1292																		
+tk_NCBP3_C_1_10_02																																	9847																		
+tk_NCBP3_C_1_12																																	3763																		
+tk_NCBP3_C_1_18																																	2286																		
+tk_NCBP3_C_1_7																																	549																		
+tk_NCBP3_C_2_10																																	13323																		
+tk_NCBP3_C_2_12																																	3188																		
+tk_NCBP3_C_2_7_02																																	259																		
+tk_NCBP3_C_3_10																																	12759																		
+tk_NCBP3_C_3_12																																	1796																		
+tk_NCBP3_C_3_18_02																																	1482																		
+tk_NCBP3_C_3_7_02																																	336																		
+tk_NCBP3_Cl_2_18																																	1477																		
+Total																		756674	1336867	0	1728767	944947	0	783820	245750	239189	0	6561	14.22	25.31	NaN	0.84	25291	63476358					5624501	789455	743001	14.04	26.62	103916	13.16		0.64878	0.92961	0.39606	0.58701	
