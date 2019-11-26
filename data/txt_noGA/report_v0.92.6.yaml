@@ -1,0 +1,128 @@
+# This is a configuration file for PTXQC reporting.
+# One such file is generated automatically every time a report PDF is created.
+# You can make a copy of this file, then modify its values and use the copy as an input to another round of report generation,
+# e.g., to exclude/include certain plots or change some global settings.
+#
+# It is recommended to work on a copy of this file, such that this original configuration reflects the content of the report.
+# 
+# Note that upon report generation, this file will be overwritten again (with potentially new values, if and depending on the YAML config you provided).
+#
+# This file has a certain structure, which should be *retained* when editing.
+# Note that each parameter level has two more spaces for indentation
+# A value is assigned using a colon followed by a space, i.e. ': '
+#
+# The values that can be taken by a parameter are indicated by the SUFFIX of the name.
+# '<name>_num' :  a numeric value is expected
+# '<name>_wA'  :  'no', 'yes', 'auto' (see below)
+# '<name>      :  'no', 'yes'
+#
+# By default (no special ending) parameters are BINARY (yes or no).
+# Parameters ending in 'wA' (== 'withAuto') offer a heuristic to decide if something should be plotted.
+# Finally, numerical parameters... well... are numerical (usually integer).
+#
+#
+# The subsection 'order' enables reordering of metrics by assigning other numbers.
+# The order affects both the order of columns in the heatmap, and the order of plots in the report.
+# If you set a metrics order number to a negative value, the metric will not be computed!
+# This is useful to switch of uninteresting or broken metrics (until a fix is rolled out).
+#
+# Parameters whose name starts with 'MQpar_' should be matched to the parameters set in MaxQuant.
+# E.g. 'File$Evidence$MQpar_MatchingTimeWindow_num' is the matching (not alignment!) tolerance
+#      for Match-between-Runs, and has a default of 1 (minute).
+#      Older MQ version prior to MaxQuant 1.4 allowed 2 minutes, very recent ones use 0.7 minutes.
+# The parameter 'PTXQC$UseLocalMQPar' controls if the mqpar.xml file will be looked up or not. 
+# It needs to be present within this txt folder (i.e. you need to copy it here!).
+# If the mqpar.xml file is not found, a warning will be issued and the internal PTXQC default will
+# be used (bearing the risk of being inaccurate).
+#
+# Furthermore, there is the SpecialContaminants section, where you can trigger the generation of a plot
+# which just shows the fraction of proteins containing a certain string.
+# By default we search for 'MYCOPLASMA' in the protein identifier, i.e. your txt should be derived from a 
+# run using a database containing these identifiers (the FASTA description is not enough).
+# Each of the special contaminants requires has its own section (e.g. 'cont_MYCO:') with two parameters: 
+# - a string          = name within the protein identifier
+# - an integer number = a threshold in % which will be plotted to visually ease interpretation
+# If you do not want any contaminants search, just set
+#     SpecialContaminants: no
+#
+# With the exception(!) of extra 'SpecialContaminants':
+#   Do NOT add extra values (since they are ignored anyway and might even destroy the integrity of this configuration file).
+#   Only modify existing values, but not their names. I.e. only change 123 but not 'test'
+#   test: 123
+#
+#
+PTXQC:
+  ReportFilename:
+    extended: yes
+  UseLocalMQPar: yes
+  NameLengthMax_num: 10.0
+  OutputFormats:
+  - html
+  - plainPDF
+  PlainPDF:
+    AddPageNumbers: 'on'
+File:
+  Parameters:
+    enabled: yes
+  Summary:
+    enabled: yes
+    IDRate:
+      Thresh_bad_num: 20.0
+      Thresh_great_num: 35.0
+  ProteinGroups:
+    enabled: yes
+    RatioPlot:
+      LabelIncThresh_num: 4.0
+    IntensityThreshLog2_num: 25.0
+  Evidence:
+    enabled: yes
+    ProteinCountThresh_num: 3500.0
+    IntensityThreshLog2_num: 23.0
+    PeptideCountThresh_num: 15000.0
+    SpecialContaminants:
+      cont_MYCO:
+      - MYCOPLASMA
+      - '1'
+    MQpar_MatchingTimeWindow_num: 1.0
+    MatchBetweenRuns_wA: auto
+    MQpar_firstSearchTol_num: 20.0
+    firstSearch_outOfCalWarnSD_num: 2.0
+    MQpar_mainSearchTol_num: .na
+  MsMs:
+    enabled: yes
+  MsMsScans:
+    enabled: yes
+    IonInjectionThresh_num: 10.0
+order:
+  qcMetric_PAR: 1.0
+  qcMetric_PG_PCA: 3.0
+  qcMetric_EVD_Top5Cont: 10.0
+  qcMetric_PG_Ratio: 19.0
+  qcMetric_EVD_UserContaminant: 20.0
+  qcMetric_EVD_PeptideInt: 30.0
+  qcMetric_EVD_ReporterInt: 31.0
+  qcMetric_PG_RawInt: 32.0
+  qcMetric_PG_LFQInt: 33.0
+  qcMetric_PG_ReporterInt: 34.0
+  qcMetric_MSMS_MissedCleavages: 40.0
+  qcMetric_EVD_Charge: 100.0
+  qcMetric_PG_Cont: 110.0
+  qcMetric_MSMSScans_TopNoverRT: 120.0
+  qcMetric_EVD_IDoverRT: 150.0
+  qcMetric_EVD_RTPeakWidth: 170.0
+  qcMetric_EVD_MBRAlign: 210.0
+  qcMetric_EVD_MBRIdTransfer: 220.0
+  qcMetric_EVD_MBRaux: 221.0
+  qcMetric_MSMSScans_IonInjTime: 240.0
+  qcMetric_MSMSScans_MSMSIntensity: 245.0
+  qcMetric_EVD_MS2OverSampling: 250.0
+  qcMetric_EVD_PreCal: 260.0
+  qcMetric_EVD_PostCal: 270.0
+  qcMetric_MSMS_MSMSDecal: 280.0
+  qcMetric_SM_MSMSIdRate: 300.0
+  qcMetric_MSMSScans_TopNID: 380.0
+  qcMetric_MSMSScans_DepPep: 383.0
+  qcMetric_EVD_MissingValues: 390.0
+  qcMetric_EVD_PeptideCount: 400.0
+  qcMetric_EVD_ProteinCount: 450.0
+  qcMetric_AverageQualOverall: 9999.0
