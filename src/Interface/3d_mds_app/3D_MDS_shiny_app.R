@@ -2,7 +2,7 @@ library(plotly)
 library(shiny)
 
 source('plot_MDS.R')
-max.quant.sign <- readRDS('max_quant_sign.RDS')
+max.quant.sign <- readRDS('max.quant.sign_06282019.RDS')
 
 list.of.group.names <- unique(max.quant.sign$GetMetadataProteins()$group)
 pcoa.df <- CountPcoaDf(max.quant.sign)

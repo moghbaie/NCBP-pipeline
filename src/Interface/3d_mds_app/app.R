@@ -2,9 +2,11 @@ library(plotly)
 library(shiny)
 
 source('plot_MDS.R')
-max.quant.sign <- readRDS('max_quant_sign.RDS')
+max.quant.sign <- readRDS('max.quant.sign.RDS')
 
 list.of.group.names <- unique(max.quant.sign$GetMetadataProteins()$group)
+list.of.group.names <- gsub("Exosome-connected","Exosome-related",list.of.group.names )
+list.of.group.names <- gsub("ERH-related","ERH",list.of.group.names )
 
 ui <- fluidPage(
   titlePanel("Plot settings"),
