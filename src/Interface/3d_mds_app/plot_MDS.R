@@ -7,10 +7,10 @@ require(ggplot2)
 #Sys.setenv("plotly_api_key"="L4QGJcqZsrNTVySXjs3W")
 
 plotly.color.list <- c("grey", "red", "dark green", "orange", "turquoise4", "green", "blue", 
-                       "black", "brown", "violet", "cyan")
+                       "black", "brown", "violet", "cyan","rosybrown")
 names(plotly.color.list) <- c("no group", "NCBP1/2-related", "EJC-related", "THO/TREX-related", 
                               "Exosome-related", "NPC-related", "ERH", "NELF",
-                              "Spliceosome", "Importin related", "NCBP3")
+                              "Spliceosome", "Importin related", "NCBP3","CTCF-related")
 kNoGroupName <- "no group"
 '%nin%' <- Negate('%in%')
 
@@ -30,7 +30,9 @@ Plot3DMDS <- function(max.quant.obj, pcoa.df = NULL, title = "MDS",
   
   metadata.table <- 
     max.quant.obj$GetMetadataProteins()[,c('Protein.IDs','Gene.names','group')]
+  metadata.table$Gene.names <- apply(metadata.table, 1, function(x) strsplit(x[["Gene.names"]],";")[[1]][1])
   metadata.table[metadata.table$group=="NCBP3","Gene.names"] <- "NCBP3"
+  metadata.table[metadata.table$Gene.names=="SKIV2L2","Gene.names"] <- "MTREX"
   metadata.table[metadata.table$group=="Exosome-connected","group"] <- "Exosome-related"
   metadata.table[metadata.table$group=="ERH-related","group"] <- "ERH"
   
@@ -54,11 +56,14 @@ Plot3DMDS <- function(max.quant.obj, pcoa.df = NULL, title = "MDS",
     
     pcoa.df <- pcoa.df[pcoa.df$Protein.IDs %in% proteins.to.plot, ]
   }
-  
+ 
   pcoa.df <- merge(pcoa.df, metadata.table, by = 'Protein.IDs', all.x = T, all.y = F)
   pcoa.df$always_names <- ''
   pcoa.df[pcoa.df$group != kNoGroupName, ]$always_names <- 
     pcoa.df[pcoa.df$group != kNoGroupName,]$Gene.names
+  
+  pcoa.df[pcoa.df$Gene.names=="SKIV2L2","Gene.names"] <- "MTREX"
+ 
   
   p <- 
     plot_ly(pcoa.df, x = ~Axis.1, y = ~Axis.2, z = ~Axis.3, 

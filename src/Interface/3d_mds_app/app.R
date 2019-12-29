@@ -8,6 +8,8 @@ list.of.group.names <- unique(max.quant.sign$GetMetadataProteins()$group)
 list.of.group.names <- gsub("Exosome-connected","Exosome-related",list.of.group.names )
 list.of.group.names <- gsub("ERH-related","ERH",list.of.group.names )
 
+pcoa.df <- CountPcoaDf(max.quant.sign$GetDistanceMatrix())
+
 ui <- fluidPage(
   titlePanel("Plot settings"),
   sidebarPanel(
@@ -24,12 +26,26 @@ ui <- fluidPage(
   )
 )
 
+
 server <- function(input, output, session) {
+  
+  recalculate.dist <- reactiveVal(F)        
+  
+  observeEvent(input$numberOfAnovas, {
+    recalculate.dist(T)  
+  })
+  
+  observeEvent(input$checkGroups, {
+    recalculate.dist(F)  
+  })
+  
   output$MDS <- renderPlotly({
+    x.calculate <- recalculate.dist()
     Plot3DMDS(max.quant.obj = max.quant.sign, 
+              pcoa.df = pcoa.df, 
               groups.to.show = input$checkGroups,
               anovas.passed = input$numberOfAnovas,
-              recalculate.dist = T)
+              recalculate.dist=x.calculate )
   })
 }
 

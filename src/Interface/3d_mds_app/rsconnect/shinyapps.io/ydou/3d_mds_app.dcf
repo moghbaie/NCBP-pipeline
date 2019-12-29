@@ -5,9 +5,9 @@ account: ydou
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 1524482
-bundleId: 2694534
+bundleId: 2695092
 url: https://ydou.shinyapps.io/3d_mds_app/
-when: 1577468234.93358
+when: 1577497428.53108
 asMultiple: FALSE
 asStatic: FALSE
 ignoredFiles: 3D_MDS_shiny_app.R
